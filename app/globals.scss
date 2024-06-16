@@ -36,6 +36,10 @@ header {
   padding-right: 0 !important;
 }
 
+.custom-nav-bar {
+  height: calc(100dvh - 64px) !important;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

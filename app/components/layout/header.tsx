@@ -60,7 +60,7 @@ const Header: React.FC = () => {
       </NavbarContent>
 
       <NavbarMenuToggle className="h-[56px] w-[50px] !text-black lg:hidden" />
-      <NavbarMenu className="flex flex-col justify-between gap-5 py-8 pl-6 pr-4 lg:hidden bg-transparent">
+      <NavbarMenu className="custom-nav-bar flex flex-col justify-between gap-5 py-8 pl-6 pr-4 lg:hidden bg-transparent">
         <div className="grid grid-cols-1">
           {navLinks.map((item) => (
             <NavbarItem key={item.name}>
