@@ -6,7 +6,7 @@ const ContactSection: React.FC = () => {
   const images = [
     { src: "/images/entree.jpg", alt: "Entrée" },
     { src: "/images/cuisine.jpg", alt: "Cuisine" },
-    { src: "/images/chambre.jpg", alt: "Chambre à dormir" },
+    { src: "/images/chambre.jpg", alt: "Chambre à coucher" },
     { src: "/images/salle-de-bain.jpg", alt: "Salle de bain" },
     { src: "/images/espace-de-vie.jpg", alt: "Espace de vie" },
     { src: "/images/escalier.jpg", alt: "Escalier" },
