@@ -13,7 +13,7 @@ const ContactSection: React.FC = () => {
             <ul className="list-disc">
               <li className="mt-2">Laetitia Thao</li>
               <li className="mt-2">
-                <p>53 route de Saint-Leu</p>
+                <p>53 route de Saint-Leu,</p>
                 <p>95600, Eaubonne, Val D&apos;Oise</p>
               </li>
               <li className="mt-2">
