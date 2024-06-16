@@ -12,7 +12,7 @@ import {
 } from "@nextui-org/react";
 
 import Image from "next/image";
-import Logo from "@/assets/img4.png";
+import logo from "@/assets/img4.png";
 import navLinks from "./nav-link";
 
 const Header: React.FC = () => {
@@ -26,7 +26,7 @@ const Header: React.FC = () => {
         <Link href="/">
           <h1 className="text-lg xs:text-xl ph:text-2xl font-[500] text-black hover:text-gray-600 duration-300 flex items-center gap-2">
             <Image
-              src={Logo}
+              src={logo}
               alt="Logo"
               width={40}
               height={40}
