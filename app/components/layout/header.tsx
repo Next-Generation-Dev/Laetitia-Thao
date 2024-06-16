@@ -12,7 +12,7 @@ import {
 } from "@nextui-org/react";
 
 import Image from "next/image";
-import Logo from "@/assets/img4.webp";
+import Logo from "@/assets/img4.png";
 import navLinks from "./nav-link";
 
 const Header: React.FC = () => {

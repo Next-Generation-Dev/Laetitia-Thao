@@ -1,7 +1,7 @@
 "use client";
 import React from "react";
 import { motion } from "framer-motion";
-import img from "@/assets/img1.webp";
+import img from "@/assets/img1.png";
 
 const HeroSection: React.FC = () => {
   return (
