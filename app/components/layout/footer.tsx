@@ -34,7 +34,7 @@ export default function Footer() {
         <div className="mt-4 flex w-full flex-col items-center justify-center md:order-1 md:mt-0">
           <div className="flex items-center justify-center">
             <span className="text-text font-text">
-              Laetitia Thao | Assistante Maternelle Agréée depuis plus de 25 ans
+              Laetitia Thao | Assistante Maternelle Agréée depuis 2006
             </span>
           </div>
           <Spacer y={4} />

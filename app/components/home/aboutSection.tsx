@@ -2,22 +2,23 @@
 
 import React from "react";
 import Image from "next/image";
+import profil from "@/assets/img2.png";
 
 const AboutSection: React.FC = () => {
   return (
-    <section className="py-20 px-4 md:px-10" id="about">
+    <section className="py-20" id="about">
       <div className="max-w-5xl mx-auto bg-transparent shadow-lg rounded-lg overflow-hidden p-2 sm:p-4 md:p-8">
-        <div className="md:flex">
+        <div className="md:flex gap-4">
           <div className="md:w-1/3">
             <Image
-              src="/images/laetitia.jpg"
+              src={profil}
               alt="Laetitia Thao"
               width={400}
               height={400}
               className="object-cover w-full h-full"
             />
           </div>
-          <div className="md:w-2/3 p-6">
+          <div className="md:w-2/3 p-2">
             <h2 className="text-3xl font-bold mb-4">À mon sujet</h2>
             <p className="text-lg mb-4">
               Bonjour, je suis <strong>Laetitia Thao</strong>, assistante

@@ -8,10 +8,9 @@ const ContactSection: React.FC = () => {
     { src: "/images/cuisine.jpg", alt: "Cuisine" },
     { src: "/images/chambre.jpg", alt: "Chambre à dormir" },
     { src: "/images/salle-de-bain.jpg", alt: "Salle de bain" },
-    { src: "/images/salon.jpg", alt: "Salon" },
+    { src: "/images/espace-de-vie.jpg", alt: "Espace de vie" },
     { src: "/images/escalier.jpg", alt: "Escalier" },
-    { src: "/images/jardin-devant.jpg", alt: "Jardin (devant)" },
-    { src: "/images/jardin-derriere.jpg", alt: "Jardin (derrière)" },
+    { src: "/images/jardin.jpg", alt: "Jardin" },
   ];
 
   return (
