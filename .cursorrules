@@ -1,0 +1,6 @@
+This project is the presentation showcase landing page for a professionnal childminder.
+Our stack is Next.js, TailwindCSS, Nextui, SASS, @iconify/react and Framer Motion.
+Please use TSX (Typescript) with well typed code every time you generate code and react arrow function components.
+Never use `React.FN`, just type props.
+Please use as much as possible the packages that are already installed in the project but tell me explicitely when you need a specific package in order to make the code work.
+Always respond in Français.
